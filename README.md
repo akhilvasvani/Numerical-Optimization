@@ -5,7 +5,7 @@ This repository contains the intuition behind basic numerical optimization using
 
 # Line Search
 
-Line search is quickly glossed over in study guide, but I put in some example code to help better illustrate how to use it. However, sometimes instead of trying to write code it might just be easier to use the current libraries such as scipy: (https://github.com/scipy/scipy/tree/master/scipy/optimize) for optimization purposes. 
+Line search is quickly glossed over in study guide, but I put in some example code to help better illustrate how to use it. However, sometimes instead of trying to write code it might just be easier to use the current libraries such as [scipy](https://github.com/scipy/scipy/tree/master/scipy/optimize) for optimization purposes. 
 
 I put in the folder first order and second order algorithms for just using Line Search.
 
