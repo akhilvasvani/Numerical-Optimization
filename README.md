@@ -21,6 +21,6 @@ Please let me know if any of my explanations are not clear or need improvement. 
 
 Thank you [Qian Ge](https://nlperic.github.io/line-search/) for your explanation on line search using python and how to go out it.
 
-Thank you Alex Gonchar (https://github.com/Rachnog) for your code on optimization algorithms (https://medium.com/@alexrachnog/optimization-cookbook-1-262aa5555b61).
+Thank you [Alex Gonchar](https://github.com/Rachnog) for your code on [optimization algorithms](https://medium.com/@alexrachnog/optimization-cookbook-1-262aa5555b61).
 
 Hayes, G. (2019). mlrose: Machine Learning, Randomized Optimization and SEarch package for Python. https://github.com/gkhayes/mlrose. Accessed: 19, March 2019.
