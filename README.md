@@ -19,7 +19,7 @@ Please let me know if any of my explanations are not clear or need improvement. 
 
 # References 
 
-Thank you (Qian Ge)[https://nlperic.github.io/line-search/] for your explanation on line search using python and how to go out it.
+Thank you [Qian Ge](https://nlperic.github.io/line-search/) for your explanation on line search using python and how to go out it.
 
 Thank you Alex Gonchar (https://github.com/Rachnog) for your code on optimization algorithms (https://medium.com/@alexrachnog/optimization-cookbook-1-262aa5555b61).
 
